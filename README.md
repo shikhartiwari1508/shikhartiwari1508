@@ -164,8 +164,8 @@ My personal portfolio showcasing my projects, skills, certificates and developme
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shikhartiwari1508&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316&text_color=ffffff" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikhartiwari1508&layout=compact&hide_border=true&bg_color=0d1117&title_color=f97316&text_color=ffffff" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shikhartiwari1508&show_icons=true&hide_border=true&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikhartiwari1508&layout=compact&hide_border=true&theme=dark" width="48%" />
 </p>
 
 ---
