@@ -180,12 +180,10 @@ My personal portfolio showcasing my projects, skills, certificates and developme
 ---
 
 # 📈 Contribution Activity
-## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="./dist/github-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
+  <img src="https://github.pumbas.net/api/contributions/shikhartiwari1508?colour=f97316&bgColour=0d1117" width="100%" alt="GitHub Contributions"/>
 </p>
-
 ---
 
 # 🎯 Current Focus
