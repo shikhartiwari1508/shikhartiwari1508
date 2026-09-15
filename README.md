@@ -180,8 +180,10 @@ My personal portfolio showcasing my projects, skills, certificates and developme
 ---
 
 # 📈 Contribution Activity
+## 🐍 Contribution Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shikhartiwari1508&theme=github-dark&hide_border=true" width="100%" alt="Shikhar's Contribution Graph"/>
+  <img src="./dist/github-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
