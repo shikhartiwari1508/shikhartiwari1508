@@ -174,11 +174,6 @@ My personal portfolio showcasing my projects, skills, certificates and developme
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shikhartiwari1508&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316" />
-</p>
-## 🔥 GitHub Streak
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=shikhartiwari1508&theme=dark&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316" width="60%" alt="GitHub Streak"/>
 </p>
 ---
