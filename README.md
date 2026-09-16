@@ -70,7 +70,13 @@ learning new technologies through projects.
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode,linux,antigravity" />
-<img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+### ⚙️ Tools & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode,linux" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/antigravity-google/default.svg" width="48" height="48" alt="Antigravity" />
 </p>
 
 ---
