@@ -79,6 +79,11 @@ learning new technologies through projects.
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/antigravity-google/default.svg" width="48" height="48" alt="Antigravity" />
 </p>
 
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode,linux" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/antigravity-google/default.svg" width="48" height="48" alt="Antigravity" />
+</p>
+
 ---
 
 # 🚀 Featured Projects
