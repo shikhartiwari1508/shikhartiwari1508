@@ -69,7 +69,7 @@ learning new technologies through projects.
 ### ⚙️ Tools & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode,linux,antigravity" />
 </p>
 
 ---
