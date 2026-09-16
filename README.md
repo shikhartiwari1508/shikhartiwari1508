@@ -70,6 +70,7 @@ learning new technologies through projects.
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode,linux,antigravity" />
+<img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ---
