@@ -161,6 +161,7 @@ My personal portfolio showcasing my projects, skills, certificates and developme
 | 🤖 Google Certificate            | Introduction to Generative AI Studio
 | 📈 TATA Certificate              | GenAI Powered Data Analytics job Simulation
 | 🧠 Deloitte Certificate          | Cyber Job Simulation
+| ⚡ TATA Certificate              | Data Visualization: Empowering Business with Effective Insights 
 | 🎖️ NCC B Certificate             | NCC                |
 | 📊 Howard University Certificate | Data Analytics     |
 | 🎨 Udemy Certificate             | UI/UX Design       |
