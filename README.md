@@ -159,7 +159,9 @@ My personal portfolio showcasing my projects, skills, certificates and developme
 | 💻 Google Certificate            | Introduction to Generative AI
 | 🌐 Microsoft Certificate         | Introduction to Prompt Engineering with GitHub Copilot
 | 🤖 Google Certificate            | Introduction to Generative AI Studio
-🎖️ NCC B Certificate               | NCC                |
+| 📈 TATA Certificate              | GenAI Powered Data Analytics job Simulation
+| 
+| 🎖️ NCC B Certificate             | NCC                |
 | 📊 Howard University Certificate | Data Analytics     |
 | 🎨 Udemy Certificate             | UI/UX Design       |
 | 💻 Udemy Certificate             | Technical Bootcamp |
