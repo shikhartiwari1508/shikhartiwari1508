@@ -154,7 +154,9 @@ My personal portfolio showcasing my projects, skills, certificates and developme
 
 | 🏅 Certificate                   | 📚 Area            |
 | -------------------------------- | ------------------ |
-| 🎖️ NCC B Certificate            | NCC                |
+| 🏆NIT Raipur Certificate        | Quantum technologies for Underwater Robot Positioning, Navigation and Timing (PNT) 
+
+🎖️ NCC B Certificate            | NCC                |
 | 📊 Howard University Certificate | Data Analytics     |
 | 🎨 Udemy Certificate             | UI/UX Design       |
 | 💻 Udemy Certificate             | Technical Bootcamp |
