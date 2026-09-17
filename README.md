@@ -158,7 +158,8 @@ My personal portfolio showcasing my projects, skills, certificates and developme
 | 🚀 ISRO Certificate              | AI/ML for Geodata Analytics
 | 💻 Google Certificate            | Introduction to Generative AI
 | 🌐 Microsoft Certificate         | Introduction to Prompt Engineering with GitHub Copilot
-🎖️ NCC B Certificate            | NCC                |
+| 🤖 Google Certificate            | Introduction to Generative AI Studio
+🎖️ NCC B Certificate               | NCC                |
 | 📊 Howard University Certificate | Data Analytics     |
 | 🎨 Udemy Certificate             | UI/UX Design       |
 | 💻 Udemy Certificate             | Technical Bootcamp |
