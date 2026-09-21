@@ -162,6 +162,7 @@ My personal portfolio showcasing my projects, skills, certificates and developme
 | 📈 TATA Certificate              | GenAI Powered Data Analytics job Simulation
 | 🧠 Deloitte Certificate          | Cyber Job Simulation
 | ⚡ TATA Certificate              | Data Visualization: Empowering Business with Effective Insights 
+| 📊 Devtown Bootcamp              | SQL for Data Analytics
 | 🎖️ NCC B Certificate             | NCC                |
 | 📊 Howard University Certificate | Data Analytics     |
 | 🎨 Udemy Certificate             | UI/UX Design       |
