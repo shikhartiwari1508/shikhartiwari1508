@@ -167,10 +167,6 @@ An AI-powered agriculture platform designed to help farmers make smarter decisio
 * 📊 Data-Based Decision Support
 * 🖥️ Modern Futuristic Dashboard
 
-|   |
-| - |
-
-
 </td>
 </tr>
 </table>
