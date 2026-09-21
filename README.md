@@ -64,7 +64,7 @@ learning new technologies through projects.
 </p>
 
 `Artificial Intelligence` • `Machine Learning` • `Data Analysis`
-`Data Visualization` • `R Programming` • `AI Chatbots`
+`Data Visualization` • `R Programming` • `AI Chatbots` • `Google Antigravity`
 
 ### ⚙️ Tools & Frameworks
 
