@@ -144,6 +144,12 @@ My personal portfolio showcasing my projects, skills, certificates and developme
 
 ✨ Responsive • Futuristic UI • Project Showcase
 
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
 ## 🌾 SmartFarm AI
 
 [svg](https://github.com/shikhartiwari1508#-smartfarm-ai)
