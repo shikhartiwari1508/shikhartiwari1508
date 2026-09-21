@@ -144,6 +144,27 @@ My personal portfolio showcasing my projects, skills, certificates and developme
 
 ✨ Responsive • Futuristic UI • Project Showcase
 
+## 🌾 SmartFarm AI
+
+[svg](https://github.com/shikhartiwari1508#-smartfarm-ai)
+
+An AI-powered agriculture platform designed to help farmers make smarter decisions using data-driven insights and intelligent recommendations.
+
+**Tech:** `Python` `FastAPI` `Gemini AI` `JavaScript` `HTML` `CSS`
+
+**Features:**
+
+* 🌱 Smart Crop Analysis
+* 🤖 AI-Powered Predictions
+* 💧 Agriculture Insights
+* 🧠 Intelligent Recommendations
+* 📊 Data-Based Decision Support
+* 🖥️ Modern Futuristic Dashboard
+
+|   |
+| - |
+
+
 </td>
 </tr>
 </table>
