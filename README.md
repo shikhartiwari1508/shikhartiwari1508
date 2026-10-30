@@ -8,7 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0d00,100:f97316&height=230&section=header&text=Shikhar%20Tiwari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Python&descAlignY=60&descSize=20" width="100%"/>
 </p>
 
-<h1 align="center">👋 Hey, I'm Shikhar Tiwari</h1>
+<h1 align="center">👋 Hey, I'm Shikhar Tiwari...</h1>
 
 <p align="center">
   <b>🎓 BCA-MCA Data Science Student</b> •
