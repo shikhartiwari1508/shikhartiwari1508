@@ -85,7 +85,7 @@ learning new technologies through projects.
 An AI-powered conversational application built to explore modern AI capabilities.
 
 **Tech:**
-`Python` `FastAPI` `Ollama` `JavaScript`
+`Python` `FastAPI` `Gemini` `JavaScript`
 
 **Features:**
 
