@@ -185,6 +185,7 @@ An AI-powered campus management platform designed to simplify student services, 
 * 📊 Smart Admin Dashboard & Analytics
 * ⚡ Real-Time Complaint Tracking
 * 🖥️ Modern & Responsive Dashboard
+  
   </td>
 </tr>
 </table>
