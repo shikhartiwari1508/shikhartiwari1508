@@ -166,8 +166,7 @@ An AI-powered agriculture platform designed to help farmers make smarter decisio
 * 🖥️ Modern Futuristic Dashboard
 
 </td>
-</tr>
-<tr>
+
   <td width=50%>
     ## 🎓 CampusMindAI
 
