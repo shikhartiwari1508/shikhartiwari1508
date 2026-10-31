@@ -338,12 +338,13 @@ My personal developer portfolio showcasing my technical skills, projects, certif
 
 ---
 
-<!-- GITHUB TROPHIES -->
 
-# 🏆 GitHub Achievements
+<!-- GITHUB PROFILE SUMMARY -->
+
+# 🏆 GitHub Achievements & Profile
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shikhartiwari1508&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shikhartiwari1508&theme=github_dark" width="100%" alt="GitHub Profile Summary"/>
 </p>
 
 ---
@@ -353,27 +354,37 @@ My personal developer portfolio showcasing my technical skills, projects, certif
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shikhartiwari1508&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikhartiwari1508&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=shikhartiwari1508&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shikhartiwari1508&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shikhartiwari1508&theme=github_dark" width="49%" alt="GitHub Statistics"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shikhartiwari1508&theme=github_dark" width="49%" alt="Repository Languages"/>
 </p>
 
 ---
+
+<!-- CONTRIBUTION STREAK -->
 
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shikhartiwari1508&theme=dark&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=F97316" width="80%"/>
+  <img src="https://streak-stats.demolab.com/?user=shikhartiwari1508&theme=dark&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=F97316" width="85%" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
+
+<!-- CONTRIBUTION ACTIVITY -->
 
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shikhartiwari1508&bg_color=0d1117&color=f97316&line=f97316&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shikhartiwari1508&theme=github_dark" width="100%" alt="Contribution Activity Graph"/>
 </p>
 
 ---
+
 
 <!-- CURRENT FOCUS -->
 
