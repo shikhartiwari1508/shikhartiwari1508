@@ -239,6 +239,9 @@ An AI-powered agriculture platform helping farmers make smarter farming decision
 - 🌐 Hindi & English Support
 
 <p align="center">
+  <a href="https://smartfarmai-amber.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-f97316?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://github.com/shikhartiwari1508/SmartFarm-AI">
     <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github"/>
   </a>
