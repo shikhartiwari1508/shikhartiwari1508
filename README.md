@@ -380,7 +380,7 @@ My personal developer portfolio showcasing my technical skills, projects, certif
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shikhartiwari1508&theme=github_dark" width="100%" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shikhartiwari1508&bg_color=0D1117&color=F97316&title_color=F97316&line=F97316&point=FFFFFF&area_color=F97316&area=true&hide_border=true" width="100%" alt="Contribution Activity"/>
 </p>
 
 ---
