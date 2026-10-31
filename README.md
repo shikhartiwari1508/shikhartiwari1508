@@ -214,10 +214,13 @@ An AI-powered campus management platform designed to simplify student services, 
 
 # 📊 GitHub Analytics
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shikhartiwari1508&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikhartiwari1508&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shikhartiwari1508&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shikhartiwari1508&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
