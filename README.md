@@ -167,6 +167,26 @@ An AI-powered agriculture platform designed to help farmers make smarter decisio
 
 </td>
 </tr>
+<tr>
+  <td width=50%>
+    ## 🎓 CampusMindAI
+
+An AI-powered campus management platform designed to simplify student services, automate complaint management, and enhance campus experiences through intelligent AI-driven solutions.
+
+**Tech:** `Python` `FastAPI` `React.js` `JavaScript` `Tailwind CSS` `SQLite` `Gemini AI`
+
+**Features:**
+
+* 🎓 Smart Student Registration & Authentication
+* 🤖 AI-Powered Complaint Analysis
+* 🔍 Intelligent Duplicate Complaint Detection
+* 📋 Automated Complaint Management
+* 🧠 AI-Based Issue Classification & Prioritization
+* 📊 Smart Admin Dashboard & Analytics
+* ⚡ Real-Time Complaint Tracking
+* 🖥️ Modern & Responsive Dashboard
+  </td>
+</tr>
 </table>
 
 ---
